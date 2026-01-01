@@ -1,0 +1,994 @@
+{
+    "manifest": [
+        {
+            "key": "clothing/fbottom_bear_spna_lod0.bundle",
+			"path": "bundles/clothing/fbottom_bear_spna_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/flegs_bear_oldschool_lod0.bundle",
+			"path": "bundles/clothing/flegs_bear_oldschool_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_combat_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_combat_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_fsburban_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_fsburban_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_g99_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_g99_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_gorkae_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_gorkae_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_gorkasso_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_gorkasso_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_opswindshirt_lod0.001.bundle",
+			"path": "bundles/clothing/fpants_bear_opswindshirt_lod0.001.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_opswindshirt_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_opswindshirt_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_polevoi_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_polevoi_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_retar_lod0.001.bundle",
+			"path": "bundles/clothing/fpants_bear_retar_lod0.001.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_retar_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_retar_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_striker_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_striker_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_sumrak_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_sumrak_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_tactical_long_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_tactical_long_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_triarius_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_triarius_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_voin_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_voin_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_bear_zaslon_lod0.bundle",
+			"path": "bundles/clothing/fpants_bear_zaslon_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_security_bratva1_lod0.bundle",
+			"path": "bundles/clothing/fpants_security_bratva1_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_security_bratva2_lod0.bundle",
+			"path": "bundles/clothing/fpants_security_bratva2_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_security_kmf_lod0.bundle",
+			"path": "bundles/clothing/fpants_security_kmf_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_ac_combat_crye_lod0.001.bundle",
+			"path": "bundles/clothing/fpants_usec_ac_combat_crye_lod0.001.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_ac_combat_crye_lod0.bundle",
+			"path": "bundles/clothing/fpants_usec_ac_combat_crye_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_beltstaff_lod0.bundle",
+			"path": "bundles/clothing/fpants_usec_beltstaff_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_blackhawk_tac_life_lod0.bundle",
+			"path": "bundles/clothing/fpants_usec_blackhawk_tac_life_lod0.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_carinthiasoftshell_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_carinthiasoftshell_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_cerium_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_cerium_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_chameleonsoftshell_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_chameleonsoftshell_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_commando_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_commando_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_cryeprecision_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_cryeprecision_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_deeprecon_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_deeprecon_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_gen2_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_gen2_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_jeans01_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_jeans01_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_tier_2_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_tier_2_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_tier_3_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_tier_3_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_truspec_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_truspec_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_urbanresponder_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_urbanresponder_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_velocity_lod0.001.bundle",
+      "path": "bundles/clothing/fpants_usec_velocity_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_usec_velocity_lod0.bundle",
+      "path": "bundles/clothing/fpants_usec_velocity_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_bomber_lod0.001.bundle",
+      "path": "bundles/clothing/fpants_wild_bomber_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_feldparka_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_feldparka_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_jeans01_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_jeans01_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_military_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_military_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_scavelite_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_scavelite_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_scavelite_taclite_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_scavelite_taclite_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_sklon_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_sklon_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_slimpants_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_slimpants_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_sweatpants_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_sweatpants_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_victory_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_victory_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_wasatch_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_wasatch_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fpants_wild_yellowcoat_lod0.bundle",
+      "path": "bundles/clothing/fpants_wild_yellowcoat_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_blacklynx_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_blacklynx_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_borey_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_borey_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_fsbfastresponse_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_fsbfastresponse_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_g99_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_g99_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_ghostmarksman_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_ghostmarksman_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_opswindshirt_base_lod0.001.bundle",
+      "path": "bundles/clothing/ftop_bear_opswindshirt_base_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_opswindshirt_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_opswindshirt_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_polevoi_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_polevoi_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_spna_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_spna_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_sumrak_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_sumrak_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_bear_zaslon_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_bear_zaslon_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_security_bratva1_lod0.bundle",
+      "path": "bundles/clothing/ftop_security_bratva1_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_security_bratva2_lod0.bundle",
+      "path": "bundles/clothing/ftop_security_bratva2_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_security_dps_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_security_dps_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_acu_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_acu_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_aggressor_parka_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_aggressor_parka_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_beltstaff_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_beltstaff_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_carinthiasoftshell_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_carinthiasoftshell_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_cereum_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_cereum_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_chameleon_softshell_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_chameleon_softshell_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_hoody_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_hoody_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_nightpatrol_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_nightpatrol_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_orc_pcu_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_orc_pcu_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_softshell_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_softshell_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_tier2_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_tier2_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_usec_tier3_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_usec_tier3_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_bomber_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_bomber_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_feldparka_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_feldparka_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_hoody_victory_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_hoody_victory_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_jacket01_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_jacket01_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_meteor_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_meteor_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_motocross_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_motocross_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_raincoat_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_raincoat_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_rainparka_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_rainparka_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_russia_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_russia_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_scavelite_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_scavelite_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_underarmor_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_underarmor_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_vest1_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_vest1_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_vest_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_vest_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftop_wild_yellowcoat_base_lod0.bundle",
+      "path": "bundles/clothing/ftop_wild_yellowcoat_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_black_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_black_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_telnik_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_telnik_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_termo_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_termo_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_thermo_lod0.001.bundle",
+      "path": "bundles/clothing/ftshirt_bear_thermo_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_thermo_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_thermo_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_tiger_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_tiger_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_turtleneck_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_bear_turtleneck_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_bear_voin_lod0.001.bundle",
+      "path": "bundles/clothing/ftshirt_bear_voin_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.001.bundle",
+      "path": "bundles/clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_combatshirt_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_usec_combatshirt_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_commando_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_usec_commando_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_cryeac_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_usec_cryeac_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_velocity_base_lod0.001.bundle",
+      "path": "bundles/clothing/ftshirt_usec_velocity_base_lod0.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/ftshirt_usec_velocity_base_lod0.bundle",
+      "path": "bundles/clothing/ftshirt_usec_velocity_base_lod0.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fwild_dealmaker_body.001.bundle",
+      "path": "bundles/clothing/fwild_dealmaker_body.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fwild_dealmaker_feet.001.bundle",
+      "path": "bundles/clothing/fwild_dealmaker_feet.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/fwild_security_body_2.001.bundle",
+      "path": "bundles/clothing/fwild_security_body_2.001.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/milena_isr_hands_test.bundle",
+      "path": "bundles/clothing/milena_isr_hands_test.bundle",
+      "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2103 @@
+[
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000001",
+        "outfitId": "679ebe6eee23f42164000002",
+        "bottomId": "679ebe6eee23f42164000003",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR TIGR",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_combat_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000004",
+        "outfitId": "679ebe6eee23f42164000005",
+        "bottomId": "679ebe6eee23f42164000006",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Gorka Kobra",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_gorkae_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000007",
+        "outfitId": "679ebe6eee23f42164000008",
+        "bottomId": "679ebe6eee23f42164000009",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR URON Coyote",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_opswindshirt_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400000a",
+        "outfitId": "679ebe6eee23f4216400000b",
+        "bottomId": "679ebe6eee23f4216400000c",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Reitar",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_retar_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400000d",
+        "outfitId": "679ebe6eee23f4216400000e",
+        "bottomId": "679ebe6eee23f4216400000f",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Recon",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_sumrak_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000010",
+        "outfitId": "679ebe6eee23f42164000011",
+        "bottomId": "679ebe6eee23f42164000012",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Voin",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_voin_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000013",
+        "outfitId": "679ebe6eee23f42164000014",
+        "bottomId": "679ebe6eee23f42164000015",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Gus",
+          "description": "JEANS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_security_bratva2_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000016",
+        "outfitId": "679ebe6eee23f42164000017",
+        "bottomId": "679ebe6eee23f42164000018",
+        "locales": {
+            "en": {
+          "name": "Women's USEC AC Ranger Green",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_ac_combat_crye_lod0.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000019",
+        "outfitId": "679ebe6eee23f4216400001a",
+        "bottomId": "679ebe6eee23f4216400001b",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Taclife Terrain",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_blackhawk_tac_life_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400001c",
+        "outfitId": "679ebe6eee23f4216400001d",
+        "bottomId": "679ebe6eee23f4216400001e",
+        "locales": {
+            "en": {
+          "name": "Women's USEC DesOps",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_chameleonsoftshell_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400001f",
+        "outfitId": "679ebe6eee23f42164000020",
+        "bottomId": "679ebe6eee23f42164000021",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Woodland Infiltrator",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_cryeprecision_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000022",
+        "outfitId": "679ebe6eee23f42164000023",
+        "bottomId": "679ebe6eee23f42164000024",
+        "locales": {
+            "en": {
+          "name": "Women's USEC TIER2",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_tier_2_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000025",
+        "outfitId": "679ebe6eee23f42164000026",
+        "bottomId": "679ebe6eee23f42164000027",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Urban Responder",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_urbanresponder_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000028",
+        "outfitId": "679ebe6eee23f42164000029",
+        "bottomId": "679ebe6eee23f4216400002a",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Blue Sweatpants",
+          "description": "SWEATPANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_bomber_lod0.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400002b",
+        "outfitId": "679ebe6eee23f4216400002c",
+        "bottomId": "679ebe6eee23f4216400002d",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Work Jeans",
+          "description": "JEANS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_jeans01_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400002e",
+        "outfitId": "679ebe6eee23f4216400002f",
+        "bottomId": "679ebe6eee23f42164000030",
+        "locales": {
+            "en": {
+          "name": "Women's RAIDER Tactical Pants",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_scavelite_taclite_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000031",
+        "outfitId": "679ebe6eee23f42164000032",
+        "bottomId": "679ebe6eee23f42164000033",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Grey Sweatpants",
+          "description": "SWEATPANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_sweatpants_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000034",
+        "outfitId": "679ebe6eee23f42164000035",
+        "bottomId": "679ebe6eee23f42164000036",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Flecktarn",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_yellowcoat_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000037",
+        "outfitId": "679ebe6eee23f42164000038",
+        "topId": "679ebe6eee23f42164000039",
+        "handsId": "679ebe6eee23f4216400003a",
+        "locales": {
+            "en": {
+          "name": "Women's FSB Fast Response",
+          "description": "FLANNEL SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_fsbfastresponse_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400003b",
+        "outfitId": "679ebe6eee23f4216400003c",
+        "topId": "679ebe6eee23f4216400003d",
+        "handsId": "679ebe6eee23f4216400003e",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR OPS MGS Black",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_opswindshirt_base_lod0.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400003f",
+        "outfitId": "679ebe6eee23f42164000040",
+        "topId": "679ebe6eee23f42164000041",
+        "handsId": "679ebe6eee23f42164000042",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR SPN",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_spna_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000043",
+        "outfitId": "679ebe6eee23f42164000044",
+        "topId": "679ebe6eee23f42164000045",
+        "handsId": "679ebe6eee23f42164000046",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Basmach",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_security_bratva1_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000047",
+        "outfitId": "679ebe6eee23f42164000048",
+        "topId": "679ebe6eee23f42164000049",
+        "handsId": "679ebe6eee23f4216400004a",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Adaptive Combat",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_acu_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400004b",
+        "outfitId": "679ebe6eee23f4216400004c",
+        "topId": "679ebe6eee23f4216400004d",
+        "handsId": "679ebe6eee23f4216400004e",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Mission",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_carinthiasoftshell_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400004f",
+        "outfitId": "679ebe6eee23f42164000050",
+        "topId": "679ebe6eee23f42164000051",
+        "handsId": "679ebe6eee23f42164000052",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Urban Responder",
+          "description": "HOODIE"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_hoody_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000053",
+        "outfitId": "679ebe6eee23f42164000054",
+        "topId": "679ebe6eee23f42164000055",
+        "handsId": "679ebe6eee23f42164000056",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Softshell Flexion",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_softshell_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000057",
+        "outfitId": "679ebe6eee23f42164000058",
+        "topId": "679ebe6eee23f42164000059",
+        "handsId": "679ebe6eee23f4216400005a",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Bomber Jacket",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_bomber_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400005b",
+        "outfitId": "679ebe6eee23f4216400005c",
+        "topId": "679ebe6eee23f4216400005d",
+        "handsId": "679ebe6eee23f4216400005e",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Green Jacket",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_jacket01_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400005f",
+        "outfitId": "679ebe6eee23f42164000060",
+        "topId": "679ebe6eee23f42164000061",
+        "handsId": "679ebe6eee23f42164000062",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Field Jacket",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_raincoat_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000063",
+        "outfitId": "679ebe6eee23f42164000064",
+        "topId": "679ebe6eee23f42164000065",
+        "handsId": "679ebe6eee23f42164000066",
+        "locales": {
+            "en": {
+          "name": "Women's RAIDER Tactical Jacket",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_scavelite_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000067",
+        "outfitId": "679ebe6eee23f42164000068",
+        "topId": "679ebe6eee23f42164000069",
+        "handsId": "679ebe6eee23f4216400006a",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Vest",
+          "description": "VEST"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_vest1_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400006b",
+        "outfitId": "679ebe6eee23f4216400006c",
+        "topId": "679ebe6eee23f4216400006d",
+        "handsId": "679ebe6eee23f4216400006e",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Telnik",
+          "description": "TELNIK"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_bear_telnik_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400006f",
+        "outfitId": "679ebe6eee23f42164000070",
+        "topId": "679ebe6eee23f42164000071",
+        "handsId": "679ebe6eee23f42164000072",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Standard",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_bear_thermo_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000073",
+        "outfitId": "679ebe6eee23f42164000074",
+        "topId": "679ebe6eee23f42164000075",
+        "handsId": "679ebe6eee23f42164000076",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Rash Guard",
+          "description": "SPORTSWEAR"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_bear_voin_lod0.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000077",
+        "outfitId": "679ebe6eee23f42164000078",
+        "topId": "679ebe6eee23f42164000079",
+        "handsId": "679ebe6eee23f4216400007a",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Woodland Infiltrator",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_combatshirt_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400007b",
+        "outfitId": "679ebe6eee23f4216400007c",
+        "topId": "679ebe6eee23f4216400007d",
+        "handsId": "679ebe6eee23f4216400007e",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Boss Delta",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_velocity_base_lod0.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400007f",
+        "outfitId": "679ebe6eee23f42164000080",
+        "bottomId": "679ebe6eee23f42164000081",
+        "locales": {
+            "en": {
+          "name": "Women's BOSS Reshala",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fwild_dealmaker_feet.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000082",
+        "outfitId": "679ebe6eee23f42164000083",
+        "bottomId": "679ebe6eee23f42164000084",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR SPN",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fbottom_bear_spna_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000085",
+        "outfitId": "679ebe6eee23f42164000086",
+        "bottomId": "679ebe6eee23f42164000087",
+        "locales": {
+            "en": {
+          "name": "Women's FSB Urban Tact",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_fsburban_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000088",
+        "outfitId": "679ebe6eee23f42164000089",
+        "bottomId": "679ebe6eee23f4216400008a",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Gorka SSO",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_gorkasso_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400008b",
+        "outfitId": "679ebe6eee23f4216400008c",
+        "bottomId": "679ebe6eee23f4216400008d",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Summer Field",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_polevoi_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000091",
+        "outfitId": "679ebe6eee23f42164000092",
+        "bottomId": "679ebe6eee23f42164000093",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Coyote",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_tactical_long_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000094",
+        "outfitId": "679ebe6eee23f42164000095",
+        "bottomId": "679ebe6eee23f42164000096",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Zaslon",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_zaslon_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000097",
+        "outfitId": "679ebe6eee23f42164000098",
+        "bottomId": "679ebe6eee23f42164000099",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Camo",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_security_kmf_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400009a",
+        "outfitId": "679ebe6eee23f4216400009b",
+        "bottomId": "679ebe6eee23f4216400009c",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Standard",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_ac_combat_crye_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400009d",
+        "outfitId": "679ebe6eee23f4216400009e",
+        "bottomId": "679ebe6eee23f4216400009f",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Rangemaster",
+          "description": "JEANS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_carinthiasoftshell_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000a0",
+        "outfitId": "679ebe6eee23f421640000a1",
+        "bottomId": "679ebe6eee23f421640000a2",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Commando",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_commando_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000a3",
+        "outfitId": "679ebe6eee23f421640000a4",
+        "bottomId": "679ebe6eee23f421640000a5",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Gen.2 Khyber",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_gen2_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000a6",
+        "outfitId": "679ebe6eee23f421640000a7",
+        "bottomId": "679ebe6eee23f421640000a8",
+        "locales": {
+            "en": {
+          "name": "Women's USEC TIER3",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_tier_3_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000a9",
+        "outfitId": "679ebe6eee23f421640000aa",
+        "bottomId": "679ebe6eee23f421640000ab",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Defender",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_velocity_lod0.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000ac",
+        "outfitId": "679ebe6eee23f421640000ad",
+        "bottomId": "679ebe6eee23f421640000ae",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Black Jeans",
+          "description": "JEANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_feldparka_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000af",
+        "outfitId": "679ebe6eee23f421640000b0",
+        "bottomId": "679ebe6eee23f421640000b1",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Old Military",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_military_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000b2",
+        "outfitId": "679ebe6eee23f421640000b3",
+        "bottomId": "679ebe6eee23f421640000b4",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Sklon",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_sklon_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f421640000b5",
+        "outfitId": "679ebe6eee23f421640000b6",
+        "bottomId": "679ebe6eee23f421640000b7",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Blue Jeans",
+          "description": "JEANS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_victory_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000b8",
+        "outfitId": "679ebe6eee23f421640000b9",
+        "topId": "679ebe6eee23f421640000ba",
+        "handsId": "679ebe6eee23f421640000bb",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Black Lynx",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_blacklynx_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000bc",
+        "outfitId": "679ebe6eee23f421640000bd",
+        "topId": "679ebe6eee23f421640000be",
+        "handsId": "679ebe6eee23f421640000bf",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR G99",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_g99_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000c0",
+        "outfitId": "679ebe6eee23f421640000c1",
+        "topId": "679ebe6eee23f421640000c2",
+        "handsId": "679ebe6eee23f421640000c3",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR OPS MGS",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_opswindshirt_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000c4",
+        "outfitId": "679ebe6eee23f421640000c5",
+        "topId": "679ebe6eee23f421640000c6",
+        "handsId": "679ebe6eee23f421640000c7",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Sumrak",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_sumrak_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000c8",
+        "outfitId": "679ebe6eee23f421640000c9",
+        "topId": "679ebe6eee23f421640000ca",
+        "handsId": "679ebe6eee23f421640000cb",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Gus",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_security_bratva2_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000cc",
+        "outfitId": "679ebe6eee23f421640000cd",
+        "topId": "679ebe6eee23f421640000ce",
+        "handsId": "679ebe6eee23f421640000cf",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Agressor TAC",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_aggressor_parka_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000d0",
+        "outfitId": "679ebe6eee23f421640000d1",
+        "topId": "679ebe6eee23f421640000d2",
+        "handsId": "679ebe6eee23f421640000d3",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Cereum",
+          "description": "JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_cereum_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000d4",
+        "outfitId": "679ebe6eee23f421640000d5",
+        "topId": "679ebe6eee23f421640000d6",
+        "handsId": "679ebe6eee23f421640000d7",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Night Patrol",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_nightpatrol_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000d8",
+        "outfitId": "679ebe6eee23f421640000d9",
+        "topId": "679ebe6eee23f421640000da",
+        "handsId": "679ebe6eee23f421640000db",
+        "locales": {
+            "en": {
+          "name": "Women's USEC TIER2",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_tier2_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000dc",
+        "outfitId": "679ebe6eee23f421640000dd",
+        "topId": "679ebe6eee23f421640000de",
+        "handsId": "679ebe6eee23f421640000df",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Field Parka",
+          "description": "FIELD PARKA"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_feldparka_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000e0",
+        "outfitId": "679ebe6eee23f421640000e1",
+        "topId": "679ebe6eee23f421640000e2",
+        "handsId": "679ebe6eee23f421640000e3",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Sanitar",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_meteor_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000e4",
+        "outfitId": "679ebe6eee23f421640000e5",
+        "topId": "679ebe6eee23f421640000e6",
+        "handsId": "679ebe6eee23f421640000e7",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Camo Parka",
+          "description": "CAMO PARKA"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_rainparka_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000e8",
+        "outfitId": "679ebe6eee23f421640000e9",
+        "topId": "679ebe6eee23f421640000ea",
+        "handsId": "679ebe6eee23f421640000eb",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Camo Jacket",
+          "description": "CAMO JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_underarmor_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000ec",
+        "outfitId": "679ebe6eee23f421640000ed",
+        "topId": "679ebe6eee23f421640000ee",
+        "handsId": "679ebe6eee23f421640000ef",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Raincoat",
+          "description": "RAINCOAT"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_yellowcoat_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000f0",
+        "outfitId": "679ebe6eee23f421640000f1",
+        "topId": "679ebe6eee23f421640000f2",
+        "handsId": "679ebe6eee23f421640000f3",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Standard",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_bear_thermo_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000f4",
+        "outfitId": "679ebe6eee23f421640000f5",
+        "topId": "679ebe6eee23f421640000f6",
+        "handsId": "679ebe6eee23f421640000f7",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR TIGR",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_bear_tiger_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000f8",
+        "outfitId": "679ebe6eee23f421640000f9",
+        "topId": "679ebe6eee23f421640000fa",
+        "handsId": "679ebe6eee23f421640000fb",
+        "locales": {
+            "en": {
+          "name": "Women's USEC AC Ranger Green",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f421640000fc",
+        "outfitId": "679ebe6eee23f421640000fd",
+        "topId": "679ebe6eee23f421640000fe",
+        "handsId": "679ebe6eee23f421640000ff",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Commando",
+          "description": "SWEATER"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_commando_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000100",
+        "outfitId": "679ebe6eee23f42164000101",
+        "topId": "679ebe6eee23f42164000102",
+        "handsId": "679ebe6eee23f42164000103",
+        "locales": {
+            "en": {
+          "name": "Women's USEC BOSS Delta MC",
+          "description": "TACTICAL SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_velocity_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000104",
+        "outfitId": "679ebe6eee23f42164000105",
+        "topId": "679ebe6eee23f42164000106",
+        "handsId": "679ebe6eee23f42164000107",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Sweater",
+          "description": "SWEATER"
+			}
+        },
+        "topBundlePath": "clothing/fwild_security_body_2.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000108",
+        "outfitId": "679ebe6eee23f42164000109",
+        "bottomId": "679ebe6eee23f4216400010a",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Oldschool",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/flegs_bear_oldschool_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400010b",
+        "outfitId": "679ebe6eee23f4216400010c",
+        "bottomId": "679ebe6eee23f4216400010d",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR G99",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_g99_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400010e",
+        "outfitId": "679ebe6eee23f4216400010f",
+        "bottomId": "679ebe6eee23f42164000110",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR URON",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_opswindshirt_lod0.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000111",
+        "outfitId": "679ebe6eee23f42164000112",
+        "bottomId": "679ebe6eee23f42164000113",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Reitar",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_retar_lod0.001.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000114",
+        "outfitId": "679ebe6eee23f42164000115",
+        "bottomId": "679ebe6eee23f42164000116",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Striker Infil Ops",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_striker_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000117",
+        "outfitId": "679ebe6eee23f42164000118",
+        "bottomId": "679ebe6eee23f42164000119",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR SRVV",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_bear_triarius_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400011a",
+        "outfitId": "679ebe6eee23f4216400011b",
+        "bottomId": "679ebe6eee23f4216400011c",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Basmach",
+          "description": "BOMBER JACKET"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_security_bratva1_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400011d",
+        "outfitId": "679ebe6eee23f4216400011e",
+        "bottomId": "679ebe6eee23f4216400011f",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Deep Recon",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_deeprecon_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000120",
+        "outfitId": "679ebe6eee23f42164000121",
+        "bottomId": "679ebe6eee23f42164000122",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Sage Warrior",
+          "description": "FIELD PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_beltstaff_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000123",
+        "outfitId": "679ebe6eee23f42164000124",
+        "bottomId": "679ebe6eee23f42164000125",
+        "locales": {
+            "en": {
+          "name": "Women's USEC K4",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_cerium_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000129",
+        "outfitId": "679ebe6eee23f4216400012a",
+        "bottomId": "679ebe6eee23f4216400012b",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Ranger Jeans",
+          "description": "JEANS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_jeans01_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400012c",
+        "outfitId": "679ebe6eee23f4216400012d",
+        "bottomId": "679ebe6eee23f4216400012e",
+        "locales": {
+            "en": {
+          "name": "Women's USEC TACRES",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_truspec_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400012f",
+        "outfitId": "679ebe6eee23f42164000130",
+        "bottomId": "679ebe6eee23f42164000131",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Defender WG",
+          "description": "TACTICAL PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_usec_velocity_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000135",
+        "outfitId": "679ebe6eee23f42164000136",
+        "bottomId": "679ebe6eee23f42164000137",
+        "locales": {
+            "en": {
+          "name": "Women's RAIDER Field Pants",
+          "description": "COMBAT PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_scavelite_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f42164000138",
+        "outfitId": "679ebe6eee23f42164000139",
+        "bottomId": "679ebe6eee23f4216400013a",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Work Pants",
+          "description": "874 WORK PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_slimpants_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "bottom",
+        "suiteId": "679ebe6eee23f4216400013b",
+        "outfitId": "679ebe6eee23f4216400013c",
+        "bottomId": "679ebe6eee23f4216400013d",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Camo Pants",
+          "description": "CAMO PANTS"
+			}
+        },
+        "bottomBundlePath": "clothing/fpants_wild_wasatch_lod0.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400013e",
+        "outfitId": "679ebe6eee23f4216400013f",
+        "topId": "679ebe6eee23f42164000140",
+        "handsId": "679ebe6eee23f42164000141",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Boreas",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_borey_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000142",
+        "outfitId": "679ebe6eee23f42164000143",
+        "topId": "679ebe6eee23f42164000144",
+        "handsId": "679ebe6eee23f42164000145",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Ghost Marksman",
+          "description": "CAMO JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_ghostmarksman_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000146",
+        "outfitId": "679ebe6eee23f42164000147",
+        "topId": "679ebe6eee23f42164000148",
+        "handsId": "679ebe6eee23f42164000149",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Summer Field",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_polevoi_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400014a",
+        "outfitId": "679ebe6eee23f4216400014b",
+        "topId": "679ebe6eee23f4216400014c",
+        "handsId": "679ebe6eee23f4216400014d",
+        "locales": {
+            "en": {
+          "name": "Women's BEAR Zaslon",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftop_bear_zaslon_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400014e",
+        "outfitId": "679ebe6eee23f4216400014f",
+        "topId": "679ebe6eee23f42164000150",
+        "handsId": "679ebe6eee23f42164000151",
+        "locales": {
+            "en": {
+          "name": "Women's GUARD Jacket",
+          "description": "JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_security_dps_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000152",
+        "outfitId": "679ebe6eee23f42164000153",
+        "topId": "679ebe6eee23f42164000154",
+        "handsId": "679ebe6eee23f42164000155",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Sandstone",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_beltstaff_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000156",
+        "outfitId": "679ebe6eee23f42164000157",
+        "topId": "679ebe6eee23f42164000158",
+        "handsId": "679ebe6eee23f42164000159",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Chameleon",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_chameleon_softshell_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400015a",
+        "outfitId": "679ebe6eee23f4216400015b",
+        "topId": "679ebe6eee23f4216400015c",
+        "handsId": "679ebe6eee23f4216400015d",
+        "locales": {
+            "en": {
+          "name": "Women's USEC PCU Ironsight",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_orc_pcu_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400015e",
+        "outfitId": "679ebe6eee23f4216400015f",
+        "topId": "679ebe6eee23f42164000160",
+        "handsId": "679ebe6eee23f42164000161",
+        "locales": {
+            "en": {
+          "name": "Women's USEC VEKTOR",
+          "description": "TACTICAL JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_usec_tier3_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000162",
+        "outfitId": "679ebe6eee23f42164000163",
+        "topId": "679ebe6eee23f42164000164",
+        "handsId": "679ebe6eee23f42164000165",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Victory Hoodie",
+          "description": "HOODIE"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_hoody_victory_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000166",
+        "outfitId": "679ebe6eee23f42164000167",
+        "topId": "679ebe6eee23f42164000168",
+        "handsId": "679ebe6eee23f42164000169",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Motocross",
+          "description": "MESH JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_motocross_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400016a",
+        "outfitId": "679ebe6eee23f4216400016b",
+        "topId": "679ebe6eee23f4216400016c",
+        "handsId": "679ebe6eee23f4216400016d",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Russia Jacket",
+          "description": "FIELD JACKET"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_russia_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f4216400016e",
+        "outfitId": "679ebe6eee23f4216400016f",
+        "topId": "679ebe6eee23f42164000170",
+        "handsId": "679ebe6eee23f42164000171",
+        "locales": {
+            "en": {
+          "name": "Women's SCAV Puffer Vest",
+          "description": "DOWN VEST"
+			}
+        },
+        "topBundlePath": "clothing/ftop_wild_vest_base_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000172",
+        "outfitId": "679ebe6eee23f42164000173",
+        "topId": "679ebe6eee23f42164000174",
+        "handsId": "679ebe6eee23f42164000175",
+        "locales": {
+            "en": {
+          "name": "Women's USEC Standard",
+          "description": "COMBAT SHIRT"
+			}
+        },
+        "topBundlePath": "clothing/ftshirt_usec_ac_combat_shirts_cry_lod0.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    },
+    {
+        "type": "top",
+        "suiteId": "679ebe6eee23f42164000176",
+        "outfitId": "679ebe6eee23f42164000177",
+        "topId": "679ebe6eee23f42164000178",
+        "handsId": "679ebe6eee23f42164000179",
+        "locales": {
+            "en": {
+          "name": "Women's BOSS Reshala",
+          "description": "LEATHER JACKET"
+			}
+        },
+        "topBundlePath": "clothing/fwild_dealmaker_body.001.bundle",
+        "handsBundlePath": "clothing/milena_isr_hands_test.bundle",
+        "traderId": "RAGMAN",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5449016a4bdc2d6f028b456f",
+        "price": 150
+    }
+]
